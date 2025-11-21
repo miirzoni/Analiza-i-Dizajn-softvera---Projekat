@@ -9,7 +9,7 @@ Ovaj projekat je rad za predmet **Analiza i Dizajn Softvera**, kojem je cilj da 
 - Ostali fajlovi i dokumentacija koje su prikupljene tokom rada.
 
 ## Tehnički detalji  
-- Nije implementirana aplikacija (ili — ako jest — navesti tehnologije i jezike koje koristite).  
+- Aplikacija je napravljena u Figmi, dizajn i funkcionalnosti aplikacije.  
 - Fokus je na fazama analize i dizajna: prikupljanje zahtjeva, modelovanje, arhitektura, dizajn komponenti, dijagrami.
 
 ## Šta ste postigli  
